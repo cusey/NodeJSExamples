@@ -2,16 +2,17 @@
 
 #Introduction:
 #This is simple program that shows Hello World message to the screen.
+clear
 echo 'helloWorld.js ****'
 echo ' '
 node helloWorld.js
 echo ' '
 # Function
-echo 'function.js ****'
-node function.js
+echo 'app_function.js ****'
+node app_function.js
 echo ' '
 # Import Fuction
-echo 'helpers.js ****'
-echo 'app_helpers.js ****'
-node app_helpers.js
+echo 'helpers_function.js ****'
+echo 'app_helpers_function.js ****'
+node app_helpers_function.js
 echo ' '
