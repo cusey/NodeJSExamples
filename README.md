@@ -12,7 +12,7 @@ $ chmod +x run.sh
 $ ./run.sh
 ```
 
-# Context      
+# Content      
 1. Introduction     
 2. Function     
 3. Import Function     
