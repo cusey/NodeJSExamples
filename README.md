@@ -28,4 +28,52 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/http_serve
 alt="Http Server" 
 height="175px"/> 
 
+7. Npm 
+```
+$ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (nodejsexamples) nodejsexamples
+version: (1.0.0) 1.0.0
+description: examples
+entry point: (1_Introduction.js) 7_Npm.js
+test command:
+git repository: (https://github.com/cusey/NodeJSExamples.git)
+keywords:
+author: John Cusey
+license: (ISC)
+About to write to C:\Users\John Cusey\Documents\GitHub\NodeJSExamples\package.json:
+
+{
+  "name": "nodejsexamples",
+  "version": "1.0.0",
+  "description": "examples",
+  "main": "7_Npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusey/NodeJSExamples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusey/NodeJSExamples/issues"
+  },
+  "homepage": "https://github.com/cusey/NodeJSExamples#readme"
+}
+
+
+Is this OK? (yes) yes
+```
+
 
