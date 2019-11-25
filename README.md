@@ -26,6 +26,6 @@ $ ./0_Run.sh
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/http_server.png" 
 alt="Http Server" 
-height="300px"/> 
+height="200px"/> 
 
 
