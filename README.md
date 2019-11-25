@@ -9,7 +9,7 @@ To run the example programs execute the following command from the command line.
 
 ```
 $ chmod +x run.sh
-$ ./run.sh
+$ ./0_Run.sh
 ```
 
 # Content      
