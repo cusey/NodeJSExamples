@@ -16,6 +16,9 @@ $ ./0_Run.sh
 1. Introduction     
 2. Function     
 3. Import Function     
-    You can put your functions in another file and import the functions.      
+    You can put your functions in another file and import the functions.         
 4. Arrow Function     
-    Assign function to a constant variable.    
+    Assign function to a constant variable.      
+5. Object destructuring  
+   The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.     
+6.
