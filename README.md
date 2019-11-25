@@ -22,3 +22,10 @@ $ ./0_Run.sh
 5. Object destructuring  
    The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.     
 6. Http server 
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/http_server.png" 
+alt="Http Server" 
+height="300px"/> 
+
+
