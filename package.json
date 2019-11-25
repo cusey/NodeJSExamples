@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexamples",
+  "version": "1.0.0",
+  "description": "examples",
+  "main": "7_Npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusey/NodeJSExamples.git"
+  },
+  "author": "John Cussey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusey/NodeJSExamples/issues"
+  },
+  "homepage": "https://github.com/cusey/NodeJSExamples#readme"
+}
