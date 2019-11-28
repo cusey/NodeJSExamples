@@ -38,7 +38,8 @@ $ npm init
 ```
 * Updating the packages
 
- npm install will install all modules listed as dependencies in package.
+ npm install will install all modules listed as dependencies in package. All packages get
+ saved in the node_modules folder. 
  ```
  $ npm install
  ```
