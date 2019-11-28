@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cusey/NodeJSExamples/issues"
   },
-  "homepage": "https://github.com/cusey/NodeJSExamples#readme"
+  "homepage": "https://github.com/cusey/NodeJSExamples#readme",
+  "dependencies": {
+    "nodemon": "^2.0.1"
+  }
 }
