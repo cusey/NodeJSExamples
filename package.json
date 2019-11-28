@@ -5,7 +5,7 @@
   "main": "7_Npm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon 7_Npm.js"
+    "dev1": "nodemon 7_Npm.js"
   },
   "repository": {
     "type": "git",
