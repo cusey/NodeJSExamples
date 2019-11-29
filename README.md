@@ -28,7 +28,7 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/http_serve
 alt="Http Server" 
 height="175px"/> 
 
-7. Npm 
+7. Npm     
 
 * Creating the package json file 
 This utility will walk you through creating a package.json file.
@@ -43,4 +43,6 @@ $ npm init
  ```
  $ npm install
  ```
+ 8. Express      
+ 9. Event Loop      
 
