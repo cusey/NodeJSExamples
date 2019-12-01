@@ -12,7 +12,8 @@ $ chmod +x run.sh
 $ ./0_Run.sh
 ```
 
-# Content      
+# Content    
+## Section 1       
 1. Introduction     
 2. Function     
 3. Import Function     
@@ -57,6 +58,3 @@ You are in a restaurant with many other people. You order your food. Other peopl
 Synchronous basically means that you can only execute one thing at a time.     
 
 You are in a queue to get a movie ticket. You cannot get one until everybody in front of you gets one, and the same applies to the people queued behind you.     
-
-
-
