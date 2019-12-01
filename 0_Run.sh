@@ -11,6 +11,7 @@ node ./5_Object_destructuring.js
 # node ./8_Express.js
 # node ./9_Event_Loop.js
 node ./10_Asynchromous_programming.js
+node ./11_Synchronous_programming.js
 
 
 
