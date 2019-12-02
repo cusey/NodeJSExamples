@@ -79,9 +79,21 @@ You are in a queue to get a movie ticket. You cannot get one until everybody in 
 
   # Section 2 - NodeJS API Development      
 
-  12. Setup server with express    
+  12. Creating server with express    
 
-  ```
+Setup project        
+```
   npm init
   npm install express    
-  ```
+```
+
+Run server
+```
+node app12.js
+```
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app12_webpage.JPG" 
+alt="app12_webpage" 
+height="175px"/> 
+
