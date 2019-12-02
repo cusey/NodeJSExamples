@@ -57,7 +57,7 @@ Callback is an asynchronous equivalent for a function. A callback function is ca
 
 For example, a function to read a file may start reading file and return the control to the execution environment immediately so that the next instruction can be executed. Once file I/O is complete, it will call the callback function while passing the callback function, the content of the file as a parameter. So there is no blocking or wait for File I/O. This makes Node.js highly scalable, as it can process a high number of requests without waiting for any function to return results.
 
-The follow code is example of callback function in the _**10_Asynchromous_programming.js**_. 
+The follow code is example of callback function in the _**10_Asynchromous_programming.js**_ code. 
 
 ```
 (err, data) => {
@@ -77,4 +77,4 @@ Synchronous basically means that you can only execute one thing at a time.
 
 You are in a queue to get a movie ticket. You cannot get one until everybody in front of you gets one, and the same applies to the people queued behind you.     
 
-  
+  # Section 2 - NodeJS Fundamentals 
