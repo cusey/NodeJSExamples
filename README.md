@@ -83,13 +83,26 @@ You are in a queue to get a movie ticket. You cannot get one until everybody in 
 
 Setup project        
 ```
-  npm init
-  npm install express    
+$ npm init
+$ npm install express   
+$ npm install nodemon 
 ```
 
-Run server
+Start server directly      
 ```
-node app12.js
+$ node app12.js
+```
+OR uses the nodemon web server
+```
+$ nodemon app12.js
+```
+
+Start server with npm by configurating package.json file. 
+```
+$ npm run dev12
+[nodemon] restarting due to changes...
+[nodemon] starting `node app12.js`
+NodeJS is listening on: 8012
 ```
 
 <img 

@@ -6,4 +6,8 @@ app12.get("/", (req, res) => {
     res.send("Hello word from NodeJS");
 });
 
-app12.listen(8012);
+const port = 8012;
+
+app12.listen(port, () =>{
+    console.log("NodeJS is listening on: " + port );
+});
