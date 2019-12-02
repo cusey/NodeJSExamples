@@ -79,4 +79,9 @@ You are in a queue to get a movie ticket. You cannot get one until everybody in 
 
   # Section 2 - NodeJS API Development      
 
-  12. 
+  12. Setup server with express    
+
+  ```
+  npm init
+  npm install express    
+  ```
