@@ -12,7 +12,8 @@ $ chmod +x run.sh
 $ ./0_Run.sh
 ```
 
-# Content         
+# Content    
+# Section 1 - NodeJS Fundamentals      
 1. Introduction     
 2. Function     
 3. Import Function     
