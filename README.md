@@ -100,8 +100,12 @@ $ nodemon app12.js
 Start server with npm by configurating package.json file. 
 ```
 $ npm run dev12
-[nodemon] restarting due to changes...
+[nodemon] 2.0.1
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching dir(s): *.*
+[nodemon] watching extensions: js,mjs,json
 [nodemon] starting `node app12.js`
+app12.js_____________________________________
 NodeJS is listening on: 8012
 ```
 

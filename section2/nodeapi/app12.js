@@ -1,3 +1,7 @@
+var path = require('path');
+var scriptName = path.basename(__filename);
+console.log( scriptName + '_____________________________________' )
+
 const express = require("express");
 
 const app12 = express();
