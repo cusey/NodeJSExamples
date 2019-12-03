@@ -110,9 +110,9 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app12_webp
 alt="app12_webpage" 
 height="175px"/> 
 
-13. Routes   
+13. Routes     
 
-Start server with npm by configurating package.json file. 
+Start server with npm by configurating package.json file.      
 ```
 $ npm run dev13
 [nodemon] starting `node app13.js`
@@ -125,3 +125,25 @@ NodeJS is listening on: 8013
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app13_webpage.JPG" 
 alt="app13_webpage" 
 height="175px"/> 
+
+14. Moddleware
+
+Morgan is middleware logger function.    
+```
+$ npm install morgan
+```
+
+Start server with npm by configurating package.json file.      
+```
+$ npm run dev14
+[nodemon] starting `node app14.js`
+app14.js_____________________________________
+NodeJS is listening on: 8014
+Middleware applied.
+```
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app14_webpage.JPG" 
+alt="app14_webpage" 
+height="175px"/> 
+
+15. Controllers    
