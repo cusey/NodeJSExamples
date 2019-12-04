@@ -178,7 +178,7 @@ NodeJS is listening on: 8016
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app16_webpage.JPG" 
 alt="app16_webpage" 
-height="500px"/> 
+height="200px"/> 
 
 ## 17. MongoDB       
 
@@ -224,5 +224,5 @@ Results
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/result_6.png" 
 alt="" 
-height="500px"/> 
+height="300px"/> 
 
