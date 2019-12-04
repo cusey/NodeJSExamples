@@ -179,3 +179,50 @@ NodeJS is listening on: 8016
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app16_webpage.JPG" 
 alt="app16_webpage" 
 height="500px"/> 
+
+## 17. MongoDB       
+
+Steps Create MongDB       
+
+Create new MongoDB Deployment     
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/create_new_1.png" 
+alt="create_new_1" 
+height="500px"/> 
+
+Select cloud provide    
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/select_cloud_2.png" 
+alt="select_cloud_2" 
+height="500px"/> 
+
+Select region
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/select_region_3.png" 
+alt="select_region_3" 
+height="500px"/> 
+
+Assigning database name 
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/database_name_4.png" 
+alt="database_name_4" 
+height="500px"/> 
+
+Confirm order
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/confirm_order_5.png" 
+alt="" 
+height="500px"/> 
+
+Results     
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/result_6.png" 
+alt="" 
+height="500px"/> 
+
