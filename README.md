@@ -14,22 +14,22 @@ $ ./0_Run.sh
 
 # Content    
 # Section 1 - NodeJS Fundamentals      
-1. Introduction     
-2. Function     
-3. Import Function     
+## 1. Introduction     
+## 2. Function     
+## 3. Import Function     
     You can put your functions in another file and import the functions.         
-4. Arrow Function     
+## 4. Arrow Function     
     Assign function to a constant variable.      
-5. Object destructuring  
+## 5. Object destructuring  
    The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.     
-6. Http server 
+## 6. Http server 
 
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/http_server.png" 
 alt="Http Server" 
 height="175px"/> 
 
-7. Npm     
+## 7. Npm     
 
 * Creating the package json file 
 This utility will walk you through creating a package.json file.
@@ -44,10 +44,10 @@ $ npm init
  ```
  $ npm install
  ```
- 8. Express      
- 9. Event Loop     
+ ## 8. Express      
+ ## 9. Event Loop     
 
- 10. Asynchronous programming    
+ ## 10. Asynchronous programming    
 
  Asynchronous means that you can execute multiple things at a time and you don't have to finish executing the current thing in order to move on to next one.       
 
@@ -71,7 +71,7 @@ The follow code is example of callback function in the _**10_Asynchromous_progra
 }
 ```
 
-11. Synchronous programming     
+## 11. Synchronous programming     
 
 Synchronous basically means that you can only execute one thing at a time.     
 
@@ -79,7 +79,7 @@ You are in a queue to get a movie ticket. You cannot get one until everybody in 
 
   # Section 2 - NodeJS API Development      
 
-  12. Creating server with express    
+## 12. Creating server with express    
 
 Setup project        
 ```
@@ -110,7 +110,7 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app12_webp
 alt="app12_webpage" 
 height="175px"/> 
 
-13. Routes     
+## 13. Routes     
 
 Start server with npm by configurating package.json file.      
 ```
@@ -126,7 +126,7 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app13_webp
 alt="app13_webpage" 
 height="175px"/> 
 
-14. Moddleware
+## 14. Moddleware
 
 Morgan is middleware logger function.    
 ```
@@ -146,7 +146,7 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app14_webp
 alt="app14_webpage" 
 height="175px"/> 
 
-15. Controllers   
+## 15. Controllers   
 
 Start server with npm by configurating package.json file.      
 ```
@@ -164,7 +164,7 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app15_webp
 alt="app15_webpage" 
 height="175px"/> 
 
-16. JSON and postman       
+## 16. JSON and postman       
 
 Start server with npm by configurating package.json file.      
 ```
