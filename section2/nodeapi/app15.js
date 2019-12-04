@@ -3,16 +3,21 @@ var scriptName = path.basename(__filename);
 console.log( scriptName + '_____________________________________' );
 
 const express = require("express");
-const app15 = express();
+const app = express();
+const morgan = require("morgan");
+
 
 // Bring in routes
-const { getPosts15 } = require("./routes/port15")
+const postRoutes = require("./routes/port15Route");
+
+// Middleware
+app.use( morgan("dev"))
 
 
-app15.use("/", getPosts15 );
+app.use("/", postRoutes );
 
 const port = 8015;
 
-app15.listen(port, () =>{
+app.listen(port, () =>{
     console.log("NodeJS is listening on: " + port );
 });
