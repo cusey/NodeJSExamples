@@ -6,7 +6,8 @@
   "scripts": {
     "dev12": "nodemon app12.js",
     "dev13": "nodemon app13.js",
-    "dev14": "nodemon app14.js"
+    "dev14": "nodemon app14.js",
+    "dev15": "nodemon app15.js"
   },
   "author": "John Cusey",
   "license": "ISC",
