@@ -244,3 +244,19 @@ This user and pasword in used in the MongoDB connectect string in the .env file.
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/mongodb_create_user.PNG" 
 alt="create new user" 
 height="300px"/> 
+
+
+Start server with npm by configurating package.json file.      
+```
+$ npm run dev17
+app17.js_____________________________________
+port17Route.js_____________________________________
+post17Controller.js_____________________________________
+NodeJS is listening on: 8017
+Successful! connected to MongDB.
+```
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app17_webpage.JPG" 
+alt="app17_webpage" 
+height="500px"/> 
