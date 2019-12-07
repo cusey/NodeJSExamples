@@ -182,7 +182,17 @@ height="500px"/>
 
 ## 17. MongoDB       
 
-### Steps Create MongDB       
+### Steps Create MongDB  
+
+Install package to read environment variables    
+```
+npm install dotenv
+```
+
+Install package to work with the database
+```
+npm install mongoose
+```
 
 Create new MongoDB Deployment     
 
