@@ -238,8 +238,8 @@ height="300px"/>
 
 ### Create new user   
 
-This user and pasword in used in the MongoDB connectect string in the .env file. Do not use the user and password to the mLab website.
-     
+This user and pasword in used in the MongoDB connectect string in the .env file. Do not use the user and password to the mLab website.           
+
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/mongodb_create_user.PNG" 
 alt="create new user" 
