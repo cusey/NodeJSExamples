@@ -272,7 +272,7 @@ post18Controller.js_____________________________________
 NodeJS is listening on: 8018
 Successful! connected to MongDB.
 createPost ------
-CREATING POST: { _id: 5dec7554655f33c9048a1450 }
+CREATING POST: TITLE = This is title
 ```
 
 <img 

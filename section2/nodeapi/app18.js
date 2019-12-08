@@ -6,6 +6,7 @@ const express = require("express");
 const app = express();
 const mongoose = require('mongoose');
 const morgan = require("morgan");
+const bodyParser = require("body-parser");
 const dotenv = require('dotenv');
 
 // Getting the environment variables for .env file
@@ -26,8 +27,7 @@ const postRoutes = require("./routes/port18Route");
 
 // Middleware
 app.use( morgan("dev"))
-
-
+app.use(bodyParser.json())
 app.use("/", postRoutes );
 
 const port = process.env.PORT_18 || 8018;
