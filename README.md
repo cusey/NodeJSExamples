@@ -286,3 +286,15 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app18_webp
 alt="app18_webpage" 
 height="500px"/> 
 
+### Checking the MongoDB For the data    
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app18_webpage4.png" 
+alt="app18_webpage4" 
+height="500px"/> 
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app18_webpage5.JPG" 
+alt="app18_webpage5" 
+height="500px"/> 
+
