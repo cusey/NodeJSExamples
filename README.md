@@ -180,7 +180,7 @@ src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app16_webp
 alt="app16_webpage" 
 height="500px"/> 
 
-## 17. MongoDB       
+## 17. Setup MongoDB and Get Request      
 
 ### Steps Create MongDB  
 
@@ -260,3 +260,23 @@ Successful! connected to MongDB.
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app17_webpage.JPG" 
 alt="app17_webpage" 
 height="500px"/> 
+
+
+## Post Request     
+
+Start server with npm by configurating package.json file.      
+```
+$ npm run dev17
+port18Route.js_____________________________________
+post18Controller.js_____________________________________
+NodeJS is listening on: 8018
+Successful! connected to MongDB.
+createPost ------
+CREATING POST: { _id: 5dec7554655f33c9048a1450 }
+```
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app18_webpage.JPG" 
+alt="app18_webpage" 
+height="500px"/> 
+
