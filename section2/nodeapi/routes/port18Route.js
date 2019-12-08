@@ -8,6 +8,6 @@ const postController = require('../controllers/post18Controller');
 const router = express.Router();
 
 router.get('/', postController.getPosts);
-router.post('/', postController.createPost);
+router.post('/create_post', postController.createPost);
 
 module.exports = router;
