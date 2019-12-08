@@ -10,7 +10,8 @@
     "dev15": "nodemon app15.js",
     "dev16": "nodemon app16.js",
     "dev17": "nodemon app17.js",
-    "dev18": "nodemon app18.js"
+    "dev18": "nodemon app18.js",
+    "dev19": "nodemon app19.js"
   },
   "author": "John Cusey",
   "license": "ISC",

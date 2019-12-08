@@ -300,7 +300,13 @@ height="500px"/>
 
 ## 19. Validation      
 
+## Install Express Validator
 ```
 npm install express-validator@5.3.1
+```
+
+Start server with npm by configurating package.json file.      
+```
+$ npm run dev19
 ```
 
