@@ -274,7 +274,13 @@ Successful! connected to MongDB.
 createPost ------
 CREATING POST: TITLE = This is title
 ```
+### Setting up postman    
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app18_webpage2.JPG" 
+alt="app18_webpage" 
+height="500px"/> 
 
+### Post require with responce    
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/NodeJSExamples/app18_webpage2.JPG" 
 alt="app18_webpage" 
